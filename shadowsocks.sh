@@ -1,13 +1,14 @@
 #!/usr/bin/env bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
-#=================================================================#
-#   System Required:  CentOS 6+, Debian 7+, Ubuntu 12+            #
-#   Description: One click Install Shadowsocks-Python server      #
-#   Author: liangxin                             #
-#   Thanks: cmssliangxin@gmail.com          #
-#                             #
-#=================================================================#
+echo
+echo  "#=================================================================#"
+echo  "#   System Required:  CentOS 6+, Debian 7+, Ubuntu 12+            #
+echo  "#   Description: One click Install Shadowsocks-Python server      #
+echo  "#   Author: liangxin                                              #
+echo  "#   Thanks: cmssliangxin@gmail.com                                #
+echo  "#   oldAuthor: Teddysun                                           #
+echo  "#=================================================================#
 
 clear
 echo
